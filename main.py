@@ -1,7 +1,4 @@
 import os
-HZC1_MAGIC = b'hzc1'
-NVSG_MAGIC = b'NVSG'
-
 img_dir=''#此处写输入图片目录目录
 output_dir=''#这里放输出目录
 tlg2pngDir=''#tlg2png可执行文件路径
